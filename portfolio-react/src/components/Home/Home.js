@@ -11,7 +11,7 @@ function Home() {
                         alt = "placeholder image" />
                     </div>
                     <div className = "col-4">
-                        <h1>Home</h1>
+                        <h2>Home</h2>
                         <p>My name is Taylor Leong. I was originally born in California, but later moved to New York
                         in order to go to Barnard College. I graduated with a Bachelor's degree in Biology, but
                         later decided to pursue further education related to coding. Or more specifically, learning
