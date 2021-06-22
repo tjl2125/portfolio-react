@@ -1,0 +1,63 @@
+p {
+    margin: auto; 
+    margin-bottom: 5px; 
+    }
+    
+    #work {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;  
+    }
+    
+    .firstWork h3 {
+    text-align: center; 
+    margin-left: auto; 
+    margin-right: auto;
+    }
+    
+    .firstWork img{
+    width: 600px; 
+    margin-top: 5px;
+    /*flex: 1 1 100%; */
+    transition: transform .2s;  
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 10px 5px 20px; 
+    }
+    
+    /*wanted the images under Work to slightly enlarge when you hover your cursor over them */
+    .firstWork img:hover {
+    transform: scale(1.1);
+    }
+    
+    .other img{
+    width: 200px; 
+    height: 200px; 
+    margin-top: 10px;
+    /*float: left;*/
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    }
+    
+    .other {
+    flex: 1 1 30%; 
+    text-align: center; 
+    } 
+    
+    .projects img {
+    transition: transform .2s; 
+    flex: 33.33%; 
+    padding: 2px; 
+    display: inline-block;
+    }
+    
+    .projects {
+    display:inline-block;
+    }
+    
+    .projects img:hover {
+    transform: scale(1.1);  
+    }
+    
