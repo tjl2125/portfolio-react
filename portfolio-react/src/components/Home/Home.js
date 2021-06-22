@@ -1,4 +1,7 @@
 import React from "react"; 
+import Placeholder from "../../images/Placeholder200x200.png"
+import TJL from "../../images/TJL2.jpg"; 
+import "./style.css"; 
 
 function Home() {
     return (
@@ -6,9 +9,7 @@ function Home() {
             <div className = "container">
                 <div className = "row justify-content-md-center">
                     <div className = "col-4">
-                        <im class = "img-fluid-round" 
-                        src = "../../../public/Placeholder200x200.png" 
-                        alt = "placeholder image" />
+                    <img className= "about-me" src={TJL} alt="placeholder image" />
                     </div>
                     <div className = "col-4">
                         <h2>Home</h2>
