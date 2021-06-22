@@ -6,6 +6,11 @@ function Home() {
             <div className = "container">
                 <div className = "row justify-content-md-center">
                     <div className = "col-4">
+                        <im class = "img-fluid-round" 
+                        src = "../../../public/Placeholder200x200.png" 
+                        alt = "placeholder image" />
+                    </div>
+                    <div className = "col-4">
                         <h1>Home</h1>
                         <p>My name is Taylor Leong. I was originally born in California, but later moved to New York
                         in order to go to Barnard College. I graduated with a Bachelor's degree in Biology, but
