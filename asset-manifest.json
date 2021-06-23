@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.4c272c7a.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.0168b042.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.0168b042.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.a9362b86.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.a9362b86.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/portfolio-react/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b3c51095.chunk.js": "/portfolio-react/static/js/2.b3c51095.chunk.js",
+    "static/js/2.b3c51095.chunk.js.map": "/portfolio-react/static/js/2.b3c51095.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/portfolio-react/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.4c272c7a.chunk.css.map": "/portfolio-react/static/css/main.4c272c7a.chunk.css.map",
+    "static/js/2.b3c51095.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.b3c51095.chunk.js.LICENSE.txt",
+    "static/media/Weather Dashboard demo.a072eb70.png": "/portfolio-react/static/media/Weather Dashboard demo.a072eb70.png",
+    "static/media/Work Day Scheduler demo.84851d64.png": "/portfolio-react/static/media/Work Day Scheduler demo.84851d64.png",
+    "static/media/antipode-demo.03e986df.gif": "/portfolio-react/static/media/antipode-demo.03e986df.gif",
+    "static/media/blaxjax3.ba8e5395.png": "/portfolio-react/static/media/blaxjax3.ba8e5395.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9362b86.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b3c51095.chunk.js",
+    "static/css/main.4c272c7a.chunk.css",
+    "static/js/main.0168b042.chunk.js"
+  ]
+}
