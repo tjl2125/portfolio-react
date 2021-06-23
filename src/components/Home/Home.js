@@ -3,13 +3,14 @@ import Placeholder from "../../images/Placeholder200x200.png"
 import TJL from "../../images/TJL2.jpg"; 
 import "./style.css"; 
 
+
 function Home() {
     return (
         <div className = "home">
             <div className = "container">
                 <div className = "row justify-content-md-center">
                     <div className = "col-4">
-                    <img className= "about-me" src={TJL} alt="placeholder image" />
+                    <img className= "about-me img-fluid-thumbnail" src={TJL} alt="placeholder" />
                     </div>
                     <div className = "col-4">
                         <h2>Home</h2>

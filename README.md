@@ -13,7 +13,7 @@ business, as well as providing a way to look more into myself through my contact
 
 
 ## Link to Deployed Application 
-https://tjl2125.github.io/Portfolio/
+https://tjl2125.github.io/portfolio-react/
 
 ## Credits
 The Columbia Full-Stack Web Developer bootcamp provided guidance and taught me a lot. Google was also used often in order to find any other information.

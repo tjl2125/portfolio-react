@@ -7,7 +7,7 @@
 }
 
 
-#about-me img {
+#about-me {
     border: 3px var(--dblue) solid; 
     border-radius: 50%; 
     display: block;
