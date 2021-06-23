@@ -16,7 +16,7 @@ function App() {
                 <Switch>
                     <Route path="/portfolio-react/" exact component={() => <Home />} />
                     <Route path="/portfolio-react/projects" exact component={() => <Projects />} />
-                    <Route path="/portfolio-react/Resume" exact component={() => <Resume />} />
+                    <Route path="/portfolio-react/resume" exact component={() => <Resume />} />
                 </Switch>
                 <Footer />
             </div>
