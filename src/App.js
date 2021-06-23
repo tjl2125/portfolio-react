@@ -17,6 +17,7 @@ function App() {
                     <Route path="/" exact component={() => <Home />} />
                     <Route path="/projects" exact component={() => <Projects />} />
                     <Route path="/resume" exact component={() => <Resume />} />
+                    {/* <Route path="/resume" exact component={() => <Resume />} /> */}
                 </Switch>
                 <Footer />
             </div>
