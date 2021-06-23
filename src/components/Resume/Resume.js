@@ -4,7 +4,7 @@ function Resume () {
     return (
         <div className= "resume">
             <div className= "container">
-                <div className = "row justify-content-md-center">
+                <div className = "row align-items-center">
                     <div className = "col-6">
                         <h2>Education</h2>
                         <ul>
