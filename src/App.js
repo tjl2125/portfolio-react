@@ -12,10 +12,11 @@ function App() {
         <Router>
             <div className = "App">
                 <Header />
+                <p>Thank you for coming!</p>
                 <Switch>
-                    <Route path="/" exact component={() => <Home />} />
-                    <Route path="/projects" exact component={() => <Projects />} />
-                    <Route path="/Resume" exact component={() => <Resume />} />
+                    <Route path="/portfolio-react/" exact component={() => <Home />} />
+                    <Route path="/portfolio-react/projects" exact component={() => <Projects />} />
+                    <Route path="/portfolio-react/Resume" exact component={() => <Resume />} />
                 </Switch>
                 <Footer />
             </div>
