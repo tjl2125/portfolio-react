@@ -14,9 +14,9 @@ function App() {
                 <Header />
                 <p>Thank you for coming!</p>
                 <Switch>
-                    <Route path="/portfolio-react/" exact component={() => <Home />} />
-                    <Route path="/portfolio-react/projects" exact component={() => <Projects />} />
-                    <Route path="/portfolio-react/resume" exact component={() => <Resume />} />
+                    <Route path="/" exact component={() => <Home />} />
+                    <Route path="/projects" exact component={() => <Projects />} />
+                    <Route path="/resume" exact component={() => <Resume />} />
                 </Switch>
                 <Footer />
             </div>
