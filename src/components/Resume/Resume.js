@@ -12,6 +12,7 @@ function Resume () {
                             <li>Barnard College, Columbia University | New York, NY | BA Biological Sciences May 2019, GPA: 3.26</li>
                         </ul>
                     </div>
+                    
                     <div className = "col-6">
                         <h2>Technologies</h2>
                         <ul>

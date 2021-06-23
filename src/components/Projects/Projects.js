@@ -5,10 +5,6 @@ import Scheduler from "../../images/Work Day Scheduler demo.png";
 import Blaxjax from "../../images/blaxjax3.png";
 import "./style.css";
 
-// function showLink() {
-//     console.log("link works");
-// }
-
 function Projects() {
     return (
         <div className = "projects">
